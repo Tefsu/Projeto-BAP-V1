@@ -1,0 +1,8 @@
+.env/
+__pycache__/
+build/
+dist/
+downloads/
+anime_database.db
+layout.spec
+log.txt
