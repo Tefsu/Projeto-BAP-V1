@@ -9,6 +9,7 @@ from DownloadEp import EpisodeDownloader
 
 class AnimeListApp(QMainWindow):
     def __init__(self):
+        
         super().__init__()
         self.setWindowTitle("Anime List")
         self.setGeometry(100, 100, 400, 300)
